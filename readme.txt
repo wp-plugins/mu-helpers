@@ -38,6 +38,9 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 
 == Changelog ==
 
+= 0.8 =
+* Plugin now links to dedicated plugin page where users can get support, ask questions, and provide feedback.
+
 = 0.7 =
 * Added `get_all_blog_comments()` function
 
@@ -48,6 +51,9 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 * Added `get_all_blog_posts()` function
 
 == Upgrade Notice ==
+
+= 0.8 =
+Plugin now links to dedicated plugin page where users can get support, ask questions, and provide feedback.
 
 = 0.7 =
 Added a new function: `get_all_blog_comments`

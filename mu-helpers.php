@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WordPress MU Helpers
-Plugin URI: http://xentek.net/
+Plugin URI: http://xentek.net/code/wordpress/plugins/mu-helpers/
 Description: Helper functions to make developing solutions with WordPress MU or BuddyPress easier…
-Version: 0.7
+Version: 0.8
 Author: Eric Marden
 Author URI: http://xentek.net/ 
 */
